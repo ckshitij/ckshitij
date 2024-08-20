@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ckshitij" alt="ckshitij" /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain domain**
+- 🔭 I’m currently working on **Blockchain domain and Ad Tech Domain**
 
-- 🌱 I’m currently learning **Go, nextjs and nodejs**
+- 🌱 I’m currently learning **Go, Rust**
 
 - 👯 I’m looking to collaborate on **Web3 projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kshitij.chaurasiya@gmail.com**
 
-- 📄 Know about my experiences [https://apricot-nerta-59.tiiny.site/](https://apricot-nerta-59.tiiny.site/)
+- 📄 Know about my experiences [https://kshitij-resume.tiiny.site/](https://kshitij-resume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
